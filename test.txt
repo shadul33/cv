@@ -1,2 +1,3 @@
 hello int a git dirtectory
+now we are learnig git well
 
